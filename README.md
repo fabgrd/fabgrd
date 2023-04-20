@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabien</h1>
 <h3 align="center">A creative web developper from France 🇫🇷</h3>
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Three.js** and **Redux RTK**
 
 - 📖 I'm currently studying at **Epitech**
 

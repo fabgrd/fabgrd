@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fabien</h1>
 <h3 align="center">A creative web developper from France 🇫🇷</h3>
+<h3 align="center">You can visit my website : fabiengiraudier.com 🇫🇷</h3>
 
 - 🌱 I’m currently learning **Three.js** and **Redux RTK**
 
-- 📖 I'm currently studying at **Epitech**
+- 📖 I'm currently in 5th year at **Epitech**
 
 - 📫 How to reach me **fabien.giraudier@epitech.eu**
 

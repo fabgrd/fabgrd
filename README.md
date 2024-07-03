@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabien</h1>
 <h3 align="center">A creative web developper from France 🇫🇷</h3>
-<h2 align="center">[Visit my awesome website !](https://fabiengiraudier.com)</h2>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
 - 🌱 I’m currently learning **Three.js** and **Redux RTK**
 

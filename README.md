@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabien</h1>
 <h3 align="center">A creative web developper from France 🇫🇷</h3>
-<h3 align="center">You can visit my website : fabiengiraudier.com 🇫🇷</h3>
+<h2 align="center">[Visit my awesome website !](https://fabiengiraudier.com)</h2>
 
 - 🌱 I’m currently learning **Three.js** and **Redux RTK**
 

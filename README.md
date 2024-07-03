@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fabien</h1>
 <h3 align="center">A creative web developper from France 🇫🇷</h3>
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fabiengiraudier.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabien-giraudier-62baa3205/)
 
 - 🌱 I’m currently learning **Three.js** and **Redux RTK**
 

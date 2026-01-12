@@ -75,4 +75,8 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 *Making my imagination work, that’s my nindô* ✨

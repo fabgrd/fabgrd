@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About me
 
-- 🎓 **Graduated from Epitech – Master of Information Technology**
+- 🎓 **Graduated from Epitech – Master in computer science**
 - 🚀 Frontend-oriented developer with a strong interest in **UX & clean architecture**
 - 🌱 Currently developing an association website for **Echoes of Freedom**
 - 📫 Contact me at **[info@fabiengiraudier.com](mailto:info@fabiengiraudier.com)**
